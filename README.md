@@ -124,9 +124,9 @@ Configuration of Kali Linux on Oracle Virtual Box :
 
 Output : 
 
-![image](https://github.com/user-attachments/assets/367e463b-4a99-4823-9564-a61d6a6f2815)
-
 ![image](https://github.com/user-attachments/assets/334ef340-3385-4a61-b397-9293233d6009)
+
+![image](https://github.com/user-attachments/assets/367e463b-4a99-4823-9564-a61d6a6f2815)
 
 
 ## RESULT
