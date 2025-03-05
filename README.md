@@ -120,7 +120,7 @@ chmod +x script.sh
 
 Configuration of Kali Linux on Oracle Virtual Box :
 
-![image](https://github.com/user-attachments/assets/05cad1cc-8f64-43bc-a0c0-799f2d13d8b0)
+![image](https://github.com/user-attachments/assets/83f47f18-6b45-4f19-8068-7bb8b1baf013)
 
 Output : 
 
